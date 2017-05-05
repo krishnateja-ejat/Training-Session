@@ -8,13 +8,9 @@ interface Product_info
     price:number
 
 }
-var array_name:Product_info[]=new Product_info[10];
-function values(product : Product_info) {
 
-    for(var i=0;i==10;i++)
-    {
-        return product;
-    }
+function values(product : Product_info) {
+    return product;
 
 }
 
